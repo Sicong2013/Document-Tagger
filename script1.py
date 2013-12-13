@@ -1,4 +1,4 @@
-mport re
+import re
 from pg_sample_texts import DIV_COMM, MAG_CART
  
 documents = [DIV_COMM, MAG_CART]
